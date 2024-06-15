@@ -1,0 +1,2 @@
+# read_execution_plan
+Postgresの実行計画を読むための検証リポジトリ
